@@ -1,7 +1,7 @@
 using System;
 public void introduce()
 {
-    Console.Writeline("Hellom I'm Gittie");
+    Console.Writeline("Hellom I'm Gittie :)");
 }
 
 public void joke()
