@@ -13,3 +13,8 @@ public void add(int a, int b)
 {
     return a + b;
 }
+
+public void shout()
+{
+    Console.Writeline("Git is not working as it should!!!");
+}
